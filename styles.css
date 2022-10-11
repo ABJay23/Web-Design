@@ -1,0 +1,144 @@
+body {
+ background: whitesmoke; 
+}
+
+.navigation {
+    padding: 20px;
+}
+
+
+
+
+.text {
+    color: teal;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 20;
+   
+    
+}
+
+p {
+color: gray;
+}
+
+
+
+.navbar-brand {
+    color: teal;
+    background: white;
+    width: 100%;
+}
+
+.text1 {
+  margin-right: 50px;
+}
+
+.containera {
+  display:flex;
+  width:800px;
+  height:600px;
+  background:white;
+  float:left;
+  margin-right: 60px;
+  margin-left: 50px;
+}
+
+.containerb {
+  
+}
+
+
+.container{
+  background:white;
+  border:none;
+  
+ 
+  
+}
+
+.container6 {
+  display: flex;
+  width:200px;
+  height:600px;
+  background-color: blue;
+}
+
+.container1 {
+  height:300px;
+  width:400px;
+  background:white;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  scroll-margin-right: 50px;
+  float: left;
+}
+
+.container2 {
+  height:300px;
+  width:400px;
+  background:white;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  scroll-margin-right: 50px;
+  float: left;
+}
+
+.container3 {
+  height:300px;
+  width:400px;
+  background:white;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  scroll-margin-right: 50px;
+  float: left;
+}
+
+.container4{
+  height:300px;
+  width:400px;
+  background:white;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  scroll-margin-right: 50px;
+  float: left;
+}
+
+
+
+
+
+.img {
+  width: 500px;
+  height:350px;
+  float: left;
+}
+
+.imgl {
+  width:400px;
+  height:350px;
+  float:left;
+  margin-right: 40px;
+}
+
+.imga {
+height:100%;
+width:100%;
+  float:left;
+  
+}
+
+.imgc {
+  height:300px;
+  width:200px;
+}
+
+.imageNav-photo {
+  float:left;
+  height:250px;
+  width:250px;
+}
+
+
+
+
